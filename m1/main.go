@@ -1,4 +1,3 @@
-// main.go (в директории M1)
 package main
 
 import (
